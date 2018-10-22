@@ -42,6 +42,12 @@ The formatted file headers are as follows:
 >rank | index_SNP | A12 | chr | pos | pval | pval_score | pval_weight
 
 ----------------------
+Dependencies
+----------------------
+
+None.
+
+----------------------
 Work in progress
 ----------------------
 
