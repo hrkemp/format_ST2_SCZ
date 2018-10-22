@@ -12,7 +12,7 @@ Coordinates are given as ranges for whole SNP LD sites. I wanted to save a row p
 ----------------------
 Required input
 ----------------------
-Reads file 
+Input file:
 
 >SWGPGC_ST2.txt
 
